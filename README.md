@@ -17,3 +17,11 @@ If you have any doubt, send an email to careers@earthpulse.es.
 
 
 ## Maresme data
+
+- https://en.wikipedia.org/wiki/Maresme
+- b
+- c
+
+## Flooding detection
+
+- https://medium.com/analytics-vidhya/unsupervised-flood-detection-with-sentinel-2-satellite-imagery-7a254dc2be2e
