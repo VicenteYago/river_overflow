@@ -1,7 +1,7 @@
 
 # Earth Observation Data Scientist
 
-The objective of this test is to evaluate the candidate’s ability working with Python and Geospatial data. You are asked to build a Python Notebook to assess the impact of floodings during the [Gloria](https://en.wikipedia.org/wiki/Storm_Gloria) storm (Januray 15th-25th, 2020) in an area of interest of your choosing inside the [Maresme](https://en.wikipedia.org/wiki/Maresme) county along the [Tordera](<https://en.wikipedia.org/wiki/Tordera_(river)>) river (Catalonia, Spain).
+The objective of this test is to evaluate the candidate’s ability working with Python and Geospatial data. You are asked to build a Python Notebook to assess the impact of floodings during the [Gloria](https://en.wikipedia.org/wiki/Storm_Gloria) storm (**Januray 15th-25th, 2020**) in an area of interest of your choosing inside the [Maresme](https://en.wikipedia.org/wiki/Maresme) county along the [Tordera](<https://en.wikipedia.org/wiki/Tordera_(river)>) river (Catalonia, Spain).
 
 You are asked to produce at least one of the following analytics:
 
